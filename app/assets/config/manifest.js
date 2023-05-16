@@ -4,3 +4,4 @@
 //= link_tree ../builds
 //= link custom.css.scss
 //= link navbar.css
+//= link search.css

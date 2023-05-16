@@ -7,3 +7,15 @@
   background-color: lightgray !important;
 }
 
+
+.search-area {
+  padding-top: 50px !important;
+}
+
+.no-right-padding {
+  padding-right: 0 !important;
+}
+
+.no-left-padding {
+  padding-left: 0 !important;
+}
