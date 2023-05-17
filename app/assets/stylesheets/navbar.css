@@ -7,7 +7,6 @@
   background-color: lightgray !important;
 }
 
-
 .search-area {
   padding-top: 50px !important;
 }
@@ -18,4 +17,8 @@
 
 .no-left-padding {
   padding-left: 0 !important;
+}
+
+.results-block {
+  display: inline-block !important;
 }
